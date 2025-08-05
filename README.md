@@ -1,1 +1,3 @@
 # Learning-Path-Recommendation-System
+
+This project builds a smart recommendation system that suggests personalized learning paths for interns based on their past course ratings. It analyzes which courses interns have liked before, identifies hidden patterns in their preferences using matrix factorization, and predicts how much they might like other courses they haven’t tried yet. Based on these predictions, the system recommends the top courses most suited to each intern’s interests. It also visualizes the data and results to make the recommendations easy to understand. In essence, it helps interns discover the most relevant courses to enhance their learning efficiently.
